@@ -79,6 +79,7 @@
 			this.ClientSize = new System.Drawing.Size(1008, 729);
 			this.Controls.Add(this.splitContainer1);
 			this.Name = "BrowserForm";
+			this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
 			this.Text = "SMB Browser";
 			this.splitContainer1.Panel1.ResumeLayout(false);
 			this.splitContainer1.Panel2.ResumeLayout(false);
